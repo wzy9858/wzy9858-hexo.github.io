@@ -1,0 +1,9 @@
+node_modules/
+public/
+
+尚硅谷相关课程官方笔记/
+
+#日记/
+db.json
+nohup.out
+计划/
